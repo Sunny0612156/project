@@ -1,0 +1,27 @@
+# My Plan and Ideas for the Project
+## Things to understand
+I need to make a dashboard which allows evaluation across growth, affordability and risk dimensions.
+I need to select 5 new markets for expansion and give my reasons and give growth vs risk.
+- Growth Potential = Capacity to expand operations, increase value, performance and stock price. 
+    - Need to identify economies with sustained GDP expansion.
+- Consumer opportunity = A market gap, or underserved need in the market, to increase revenue.
+    - Evaluate income levels and population growth.
+- Infrastructure readiness = Ensuring existing infrastructure has the capacity to support new technologies, processes, prjects or increased demand.
+    - Assess digital and economic infrastructure.
+- Macroeconomic risk = Refers to the potential for large-scale economic or political shifts like recessions, high inflations, interest rate changes, unemployment, exchange rates, GDP growth rates or political shifts. These are changes which affect the nation and not a singular company.
+    - Identify instability like inflation or unemployment.
+
+## Things to include
+- **GDP growth rate** - Measures how much a country's economy has grown or shrunk compared to a previous period which is usually a year or a quarter. If it goes up economy is stronger.
+- **GDP per capita** - Total value of all goods and service produced in a country divided by its total population.
+- **Population growth** - Change in the number of people living in a specific area over time. It is calculated by looking at births, deaths and migration.
+- **Internet penetration** - Percentage of a total population that has access or uses the internet.
+- **Inflation rate** - The rate at which the general prices of goods and services rise over time. When inflation is high, your money does not buy as much as it used to.
+- **Unemployment rate** - Percentage of people looking for a job.
+
+## What I need to have in my project
+- Interactive Rshiny dashboard with a global map and country comparision tools.
+- A market attractiveness index. The weighting decisions need to be justified and tested for sensitivity.
+- Transparent technical note explaining methodology and index construction.
+- Final recommendation of a ranked shortlist of expansion markets.
+- Need to have a balanced treatment of growth vs risk with clear and defensible reasoning and decision-oriented insights and no descriptive analysis.
